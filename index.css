@@ -37,6 +37,7 @@ body{
 }
 .wrapper{
     width: var(--windowwidth);
+    height: 100vh;
     background-image: var(--Radial-Gradient);
     margin: 0 auto;
     padding: 1.5rem 0 3rem 0;
@@ -312,7 +313,7 @@ body{
     color: white;
     letter-spacing: 1px;
     text-align: center;
-    width: 150%;
+    width: 180%;
 }
 .annoncement{
     color: white;
